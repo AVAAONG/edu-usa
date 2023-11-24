@@ -56,11 +56,11 @@ export function Component() {
               <Input id="phone-number" placeholder="(123) 456-7890" required />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="father-phone-number">Father's Phone Number</Label>
+              <Label htmlFor="father-phone-number">Fathers Phone Number</Label>
               <Input id="father-phone-number" placeholder="(098) 765-4321" required />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="mother-phone-number">Mother's Phone Number</Label>
+              <Label htmlFor="mother-phone-number">Mothers Phone Number</Label>
               <Input id="mother-phone-number" placeholder="(012) 345-6789" required />
             </div>
           </div>
